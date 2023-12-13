@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052976802015",
+    "project_id": "gacha3itc",
+    "storage_bucket": "gacha3itc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052976802015:android:442283b3fc1e9e2c03616a",
+        "android_client_info": {
+          "package_name": "com.example.googlemapsapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQHBfjOvTCIYhehdhKYHhvAUPQbcWxZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
